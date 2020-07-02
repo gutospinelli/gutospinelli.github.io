@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//gutospinelli.github.io/</loc>
+    <loc>/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//gutospinelli.github.io/pt-br/"
+                href="/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//gutospinelli.github.io/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>//gutospinelli.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//gutospinelli.github.io/pt-br/categories/"
+                href="/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//gutospinelli.github.io/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>//gutospinelli.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//gutospinelli.github.io/pt-br/tags/"
+                href="/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//gutospinelli.github.io/tags/"
+                href="/tags/"
                 />
   </url>
   
