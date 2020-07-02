@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Augusto SPINELLI</title>
-    <link>https://gutospinelli.github.io/spinelli/categories/</link>
+    <link>//gutospinelli.github.io/categories/</link>
     <description>Recent content in Categories on Augusto SPINELLI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://gutospinelli.github.io/spinelli/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//gutospinelli.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

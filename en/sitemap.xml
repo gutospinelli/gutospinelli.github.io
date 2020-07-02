@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gutospinelli.github.io/spinelli/</loc>
+    <loc>//gutospinelli.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://gutospinelli.github.io/spinelli/pt-br/"
+                href="//gutospinelli.github.io/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gutospinelli.github.io/spinelli/"
+                href="//gutospinelli.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://gutospinelli.github.io/spinelli/categories/</loc>
+    <loc>//gutospinelli.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://gutospinelli.github.io/spinelli/pt-br/categories/"
+                href="//gutospinelli.github.io/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gutospinelli.github.io/spinelli/categories/"
+                href="//gutospinelli.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://gutospinelli.github.io/spinelli/tags/</loc>
+    <loc>//gutospinelli.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://gutospinelli.github.io/spinelli/pt-br/tags/"
+                href="//gutospinelli.github.io/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gutospinelli.github.io/spinelli/tags/"
+                href="//gutospinelli.github.io/tags/"
                 />
   </url>
   
