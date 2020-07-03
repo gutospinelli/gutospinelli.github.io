@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/pt-br/contact/</loc>
+    <lastmod>2020-07-03T20:12:19-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>/pt-br/about/</loc>
+    <lastmod>2020-07-03T19:56:41-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/about/"
+                />
+  </url>
+  
+  <url>
     <loc>/pt-br/</loc>
     <xhtml:link
                 rel="alternate"

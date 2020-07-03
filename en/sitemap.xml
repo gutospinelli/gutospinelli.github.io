@@ -5,11 +5,31 @@
   <url>
     <loc>/contact/</loc>
     <lastmod>2020-07-02T18:06:13-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/contact/"
+                />
   </url>
   
   <url>
     <loc>/about/</loc>
     <lastmod>2020-07-02T17:50:39-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/about/"
+                />
   </url>
   
   <url>
