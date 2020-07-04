@@ -3,6 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/projects/</loc>
+    <lastmod>2020-07-04T16:10:57-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-07-04T15:33:10-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/posts/first-post/</loc>
+    <lastmod>2020-07-04T15:33:10-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/posts/first-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/first-post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-07-04T15:33:10-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/"
+                />
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
     <lastmod>2020-07-02T18:06:13-03:00</lastmod>
     <xhtml:link
@@ -29,20 +89,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/pt-br/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
                 />
   </url>
   

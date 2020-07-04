@@ -6,9 +6,33 @@
     <description>Recent content on Augusto SPINELLI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sat, 04 Jul 2020 15:33:10 -0300</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Sat, 04 Jul 2020 16:10:57 -0300</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>I intend to write about my projects in this section of the website. My current goal is to update my projects README.md files on Github, so, for now &amp;hellip;
+To check out my projects, visit https://github.com/gutospinelli</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>/posts/first-post/</link>
+      <pubDate>Sat, 04 Jul 2020 15:33:10 -0300</pubDate>
+      
+      <guid>/posts/first-post/</guid>
+      <description>Hi, everyone!
+If you came here you are probably thinking about hire me, follow and support my work or just stalking&amp;hellip;
+No matter what reason, you came to the right place.
+This is my personal website, where I plan do share some of my work, projects I&amp;rsquo;ve been to and my passions: bycicles, tech and books!
+This site is not supposed to be updated regularly, whenever I feel I should update it, I will.</description>
+    </item>
     
     <item>
       <title>Contact</title>

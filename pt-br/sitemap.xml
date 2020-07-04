@@ -3,6 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/pt-br/projects/</loc>
+    <lastmod>2020-07-04T16:11:15-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>/pt-br/</loc>
+    <lastmod>2020-07-04T15:34:25-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/"
+                />
+  </url>
+  
+  <url>
+    <loc>/pt-br/posts/</loc>
+    <lastmod>2020-07-04T15:34:25-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>/pt-br/posts/first-post/</loc>
+    <lastmod>2020-07-04T15:34:25-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/first-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/posts/first-post/"
+                />
+  </url>
+  
+  <url>
     <loc>/pt-br/contact/</loc>
     <lastmod>2020-07-03T20:12:19-03:00</lastmod>
     <xhtml:link
@@ -29,20 +89,6 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="/pt-br/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>/pt-br/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/pt-br/"
                 />
   </url>
   

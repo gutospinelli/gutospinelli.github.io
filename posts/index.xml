@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Augusto SPINELLI</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Augusto SPINELLI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 04 Jul 2020 15:33:10 -0300</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>/posts/first-post/</link>
+      <pubDate>Sat, 04 Jul 2020 15:33:10 -0300</pubDate>
+      
+      <guid>/posts/first-post/</guid>
+      <description>Hi, everyone!
+If you came here you are probably thinking about hire me, follow and support my work or just stalking&amp;hellip;
+No matter what reason, you came to the right place.
+This is my personal website, where I plan do share some of my work, projects I&amp;rsquo;ve been to and my passions: bycicles, tech and books!
+This site is not supposed to be updated regularly, whenever I feel I should update it, I will.</description>
+    </item>
+    
+  </channel>
+</rss>
